@@ -34,11 +34,7 @@ Here is a simplified breakdown:
 	- RCM ensures the hospital can provide quality care while also staying financially healthy.
 
 
-what do we have to do as a Data Engineering
-
-we will have data in various Sources
-
-we need to create a pipeline, the result of this pipeline will be fact tables and dimension tables, will help the reporting team to generate the KPI
+ After creation of the pipeline , the result of this pipeline will be fact tables and dimension tables, will help the reporting team to generate the KPI
 
 
 
@@ -51,7 +47,7 @@ we need to create a pipeline, the result of this pipeline will be fact tables an
 	- Transactions
 	- Encounter
 
-	- take simple scenario where 1 hospital two braches
+	- took simple scenario where 1 hospital two braches
 		Hospital a - hospital_a_db
 		Hospital b - hospital_b_db
 
